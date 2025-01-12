@@ -36,8 +36,7 @@ Para comenzar con el proyecto, sigue estos pasos:
     ```
 
 -**puedes visitar nuestro proyecto, para tener una mejor perspectiva de este.**
- ```
-    https://eandres-escobar.github.io/AluraGeek/
     ```
+    https://eandres-escobar.github.io/AluraGeek/
    
 
