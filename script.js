@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", () => {
   const productForm = document.getElementById("productForm");
   const previewContainer = document.getElementById("imagePreview");
-  const clearButton = document.getElementById("clearButton");  // Botón de limpiar
+  const clearButton = document.getElementById("clearButton");  
 
-  const API_URL = "http://localhost:3000/products"; // URL de tu API local
+  const API_URL = "http://localhost:3000/products"; // URL API local
 
   // Cargar productos existentes desde la API
   async function loadProducts() {
