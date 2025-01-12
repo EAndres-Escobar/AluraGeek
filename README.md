@@ -19,13 +19,25 @@ Este proyecto permite gestionar productos, incluyendo su nombre, precio y una im
 Para comenzar con el proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
+   
     ```bash
     git clone https://github.com/EAndres-Escobar/AluraGeek.git
     ```
-
 
 2. Si deseas correr un servidor local, puedes usar JSON Server para simular una API local.
 
    Para instalar JSON Server, ejecuta:
    ```bash
    npm install -g json-server
+
+3. sSi usas json-server, inicia el servidor con:
+    ```bash
+    json-server --watch db.json
+    ```
+
+-**puedes visitar nuestro proyecto, para tener una mejor perspectiva de este.**
+ ```
+    https://eandres-escobar.github.io/AluraGeek/
+    ```
+   
+
